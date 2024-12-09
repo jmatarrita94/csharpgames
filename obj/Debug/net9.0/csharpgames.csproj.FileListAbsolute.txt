@@ -1,0 +1,14 @@
+E:\Proyects\csharpgames\bin\Debug\net9.0\csharpgames.exe
+E:\Proyects\csharpgames\bin\Debug\net9.0\csharpgames.deps.json
+E:\Proyects\csharpgames\bin\Debug\net9.0\csharpgames.runtimeconfig.json
+E:\Proyects\csharpgames\bin\Debug\net9.0\csharpgames.dll
+E:\Proyects\csharpgames\bin\Debug\net9.0\csharpgames.pdb
+E:\Proyects\csharpgames\obj\Debug\net9.0\csharpgames.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyects\csharpgames\obj\Debug\net9.0\csharpgames.AssemblyInfoInputs.cache
+E:\Proyects\csharpgames\obj\Debug\net9.0\csharpgames.AssemblyInfo.cs
+E:\Proyects\csharpgames\obj\Debug\net9.0\csharpgames.csproj.CoreCompileInputs.cache
+E:\Proyects\csharpgames\obj\Debug\net9.0\csharpgames.dll
+E:\Proyects\csharpgames\obj\Debug\net9.0\refint\csharpgames.dll
+E:\Proyects\csharpgames\obj\Debug\net9.0\csharpgames.pdb
+E:\Proyects\csharpgames\obj\Debug\net9.0\csharpgames.genruntimeconfig.cache
+E:\Proyects\csharpgames\obj\Debug\net9.0\ref\csharpgames.dll
